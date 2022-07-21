@@ -1,0 +1,36 @@
+header {
+  background-color: aqua;
+  margin-bottom: 30px;
+}
+
+header nav {
+  width: 960px;
+  margin: auto;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+main {
+  background-color: cornflowerblue;
+  width: 960px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+main img {
+  margin-bottom: 30px;
+}
+
+footer {
+  background-color: darkkhaki;
+}
+
+footer nav {
+  width: 960px;
+  margin: auto;
+}
